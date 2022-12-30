@@ -1,5 +1,10 @@
 # Code samples for "Neural Networks and Deep Learning"
 
+## My Content
+This repository contains the directory namely `my_src`. It contains the code implementation performed in Python 3. 
+The code `network_matrix.py` contains the implementation which is asked as the problem titled `Fully matrix-based approach to backpropagation over a mini-batch`.  
+
+## Original Author Content
 This repository contains code samples for my book on ["Neural Networks
 and Deep Learning"](http://neuralnetworksanddeeplearning.com).
 
